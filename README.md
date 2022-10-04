@@ -1,0 +1,1 @@
+# lambda-function-delete-instances-snapshots-of-lightsail
